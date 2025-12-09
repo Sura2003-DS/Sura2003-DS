@@ -39,16 +39,7 @@ Analyzed IPL datasets to extract team performance insights, player stats, and ma
 Used Pandas, visualization libraries, and storytelling through data.  
 🔗 **Repository:** https://github.com/Sura2003-DS/MyIPL-insights
 
----
 
-## 📊 GitHub Overview
-
-<p align="left">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Sura2003-DS&show_icons=true&theme=graywhite&hide_border=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sura2003-DS&layout=compact&theme=graywhite&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contact
 **LinkedIn:** https://www.linkedin.com/in/surabhihr2003ramesh/ 

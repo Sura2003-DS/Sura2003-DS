@@ -9,7 +9,7 @@ I enjoy building practical projects that convert raw data into meaningful insigh
 ## 🔧 Technical Skills
 
 **Languages:** Python, SQL  
-**Machine Learning:** Scikit-Learn
+**Machine Learning:** Scikit-Learn,
 **Deep Learning:** CNNs, 3D CNN, Image Processing  
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 **Visualization:** Tableau, Excel (Power Pivot)  

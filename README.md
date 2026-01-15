@@ -1,48 +1,122 @@
-# 👋 Hi, I'm Surabhi HR  
-**M.Sc Data Science | Machine Learning Enthusiast**
+# 👋 Hi, I'm **Surabhi HR**
 
-I am a Data Science postgraduate student with experience in **machine learning, deep learning, data analysis, and model deployment**.  
-I enjoy building practical projects that convert raw data into meaningful insights and predictive models.
+### **M.Sc Data Science | Machine Learning & Medical AI Enthusiast**
+
+I am a postgraduate student in **Data Science** with strong interest and hands-on experience in **machine learning, deep learning, medical image processing, and data analysis**.
+I enjoy building **end-to-end, research-oriented and real-world projects** that transform raw data into meaningful insights and intelligent systems.
 
 ---
 
 ## 🔧 Technical Skills
 
-**Languages:** Python, SQL  
-**Machine Learning:** Scikit-Learn,
-**Deep Learning:** CNNs, 3D CNN, Image Processing  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Visualization:** Tableau, Excel (Power Pivot)  
-**Tools:** Jupyter, VS Code, Git  
-**Databases:** MySQL, MongoDB  
+**Programming Languages:**
+
+* Python, SQL
+
+**Machine Learning:**
+
+* Scikit-Learn, Regression & Classification Models
+
+**Deep Learning & Medical Imaging:**
+
+* CNNs, 3D CNNs
+* Image Processing
+* Medical Image Analysis
+
+**Data Analysis & Visualization:**
+
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Tableau
+* Excel (Power Pivot, Dashboards)
+
+**Tools & Platforms:**
+
+* Jupyter Notebook, VS Code
+* Git & GitHub
+
+**Databases:**
+
+* MySQL, MongoDB
 
 ---
 
 ## 🚀 Projects
 
-### **📌 1. Medical Image Classification – 3D CNN**
-Built a deep learning model using **3D Convolutional Neural Networks** to classify medical images.  
-Focused on spatial feature extraction + volumetric data preprocessing.  
-🔗 **Repository:** https://github.com/Sura2003-DS/medical-image-classification-3d-cnn
+### **📌 1. AR Spine Calibration Simulation**
+
+A **simulation-based framework** to evaluate calibration accuracy in **Augmented Reality (AR)–assisted spine surgery** using CT-derived 3D vertebra models.
+
+**Key Highlights:**
+
+* 3D reconstruction using **Marching Cubes**
+* Landmark-based **rigid registration (SVD / Kabsch)**
+* AR tracking error simulation using Gaussian noise
+* Accuracy evaluation using **Target Registration Error (TRE)**
+* Monte-Carlo simulations for robustness analysis
+* Interactive visualization using **Gradio**
+
+🔗 **Repository:**
+[https://github.com/Sura2003-DS/AR-Spine-Calibration-Simulation](https://github.com/Sura2003-DS/AR-Spine-Calibration-Simulation)
 
 ---
 
-### **📌 2. Bangalore House Price Prediction**
-End-to-end ML project for predicting house prices using regression models.  
-Includes data cleaning, feature engineering, model comparison & deployment-ready workflow.  
-🔗 **Repository:** https://github.com/Sura2003-DS/Bangalore_House_Price_Prediction
+### **📌 2. Chest X-ray Pneumonia Classification (EfficientNet)**
+
+Built a deep learning model to classify medical images using **CNN-based architectures**.
+Focused on **feature extraction, preprocessing, and performance evaluation** for medical imaging tasks.
+
+🔗 **Repository:**
+[https://github.com/Sura2003-DS/chest-xray-pneumonia-efficientnet](https://github.com/Sura2003-DS/chest-xray-pneumonia-efficientnet)
 
 ---
 
-### **📌 3. MyIPL Insights – Data Analysis Project**
-Analyzed IPL datasets to extract team performance insights, player stats, and match trends.  
-Used Pandas, visualization libraries, and storytelling through data.  
-🔗 **Repository:** https://github.com/Sura2003-DS/MyIPL-insights
+### **📌 3. Bangalore House Price Prediction**
 
+An end-to-end **machine learning regression project** for predicting house prices.
 
+**Includes:**
+
+* Data cleaning & feature engineering
+* Model comparison
+* Deployment-ready workflow
+
+🔗 **Repository:**
+[https://github.com/Sura2003-DS/Bangalore_House_Price_Prediction](https://github.com/Sura2003-DS/Bangalore_House_Price_Prediction)
+
+---
+
+### **📌 4. MyIPL Insights – Data Analysis Project**
+
+Performed exploratory data analysis on IPL datasets to uncover:
+
+* Team performance trends
+* Player statistics
+* Match outcome patterns
+
+Used **Pandas, visualization libraries, and data storytelling techniques**.
+
+🔗 **Repository:**
+[https://github.com/Sura2003-DS/MyIPL-insights](https://github.com/Sura2003-DS/MyIPL-insights)
+
+---
+
+## 🎯 Areas of Interest
+
+* Medical Image Processing
+* Augmented Reality in Healthcare
+* Machine Learning & Deep Learning
+* Data Visualization & Analytics
+* Research-oriented AI projects
+
+---
 
 ## 📫 Contact
-**LinkedIn:** https://www.linkedin.com/in/surabhihr2003ramesh/ 
-**Email:** surabhirmsh@gmail.com
+
+* **LinkedIn:**
+  [https://www.linkedin.com/in/surabhihr2003ramesh/](https://www.linkedin.com/in/surabhihr2003ramesh/)
+
+* **Email:**
+  [surabhirmsh@gmail.com](mailto:surabhirmsh@gmail.com)
 
 
